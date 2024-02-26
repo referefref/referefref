@@ -29,6 +29,7 @@
 - [***Honeypot-ftp-python3***](https://github.com/referefref/honeypot-ftp-python3) - A fork of Alex Bredo's FTP honeypot with python3 support and added features
 - [***AMTHoneypot-ng***](https://github.com/referefref/amthoneypot-ng) - A fork of Haxrob's AMT Firmware Vulnerability (CVE-2017-5689) honeypot with added features
 - [***DSHP-ng***](https://github.com/referefref/dshp-ng) - A fork of Damn Simple HoneyPot rebuilt for python3 with verbose output
+- [***honeyprint-ng***](https://github.com/referefref/honeyprint-ng) - A fork of Glaslos' printer honeypot - migrated to python3 with added features. Includes a port of pkipplib to python3
 
 ## Other Projects
 - [***Vulnonym.org***](https://vulnonym.org) - An (offensive) unique name generator for vulnerabilities, in contrast to Carnegie Mellon and NIST's approach
