@@ -36,5 +36,6 @@
 - [***Vulnonym.org***](https://vulnonym.org) - An (offensive) unique name generator for vulnerabilities, in contrast to Carnegie Mellon and NIST's approach
 - [***HACK THE UNIVERSE***](https://www.amazon.com/HACK-UNIVERSE-Exploring-Exploiting-Architecture/dp/B0CKRQJLTH) - A book on the topic of the simulated universe, information theory, and consciousness
 - [***Toddler Recipes Australia***](https://toddlerrecipes.com.au) - A long running generative website that writes recipes complete with recipe schema markup
+- [***AI OCR Recipe Convertor***](https://github.com/referefref/AIOCRRecipeConvertor) - A simple web app for converting hand written or printed recipes into HTML and markup for paperless migration
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
