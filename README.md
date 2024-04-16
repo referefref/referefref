@@ -24,12 +24,13 @@
 - [***AICRIOC***](https://github.com/referefref/aiocrioc) - An LLM and OCR based Indicator of Compromise extraction and context tool built with Python and compatible with openAI compatible API endpoints
 - [***IOCOCRExtractor***](https://github.com/referefref/ioc-ocr-extractor) - A pure regex and OCR (tesseract) Indicator of Compromise extractor tool built in Python for comparison to LLM extractions (see above)
 - [***SMTPLLMPot***](https://github.com/referefref/SMTPLLMPot) - An SMTP honeypot that uses OpenAI compatible APIs
-- [***Canary Token Detector***](https://github.com/referefref/canarytokendetector) - A Think Canarytoken detector and nullifier tool
+- [***Canary Token Detector***](https://github.com/referefref/canarytokendetector) - A Thinkst Canarytoken detector and nullifier tool
 - [***HoneyFS (LLM Honeypot Filesystem Creator)***](https://github.com/referefref/honeyfs/) - A tool for generating realistic and random filesystems using GPT3.5
 - [***Honeypot-ftp-python3***](https://github.com/referefref/honeypot-ftp-python3) - A fork of Alex Bredo's FTP honeypot with python3 support and added features
 - [***AMTHoneypot-ng***](https://github.com/referefref/amthoneypot-ng) - A fork of Haxrob's AMT Firmware Vulnerability (CVE-2017-5689) honeypot with added features
 - [***DSHP-ng***](https://github.com/referefref/dshp-ng) - A fork of Damn Simple HoneyPot rebuilt for python3 with verbose output
 - [***honeyprint-ng***](https://github.com/referefref/honeyprint-ng) - A fork of Glaslos' printer honeypot - migrated to python3 with added features. Includes a port of pkipplib to python3
+- [***glastopf-ng***](https://github.com/referefref/glastopf-ng/) - A fork of Glastopf web application honeypot - migrated to python3
 
 ## Other Projects
 - [***gitdoorcheck***](https://github.com/referefref/gitdoorcheck) - A git repo static code analyser using OpenAI LLMs written in Python
