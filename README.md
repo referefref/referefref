@@ -31,7 +31,7 @@
 - [***DSHP-ng***](https://github.com/referefref/dshp-ng) - A fork of Damn Simple HoneyPot rebuilt for python3 with verbose output
 - [***honeyprint-ng***](https://github.com/referefref/honeyprint-ng) - A fork of Glaslos' printer honeypot - migrated to python3 with added features. Includes a port of pkipplib to python3
 - [***glastopf-ng***](https://github.com/referefref/glastopf-ng/) - A fork of Glastopf web application honeypot - migrated to python3
-- [***DNP3Pot-python3***](https://github.com/referefref/dnp3pot-python3) - A fork of ArtWatchowski's DNP3Pot ported to Python3 with an updated DNBP3 library (originally by Nicholas Rodofile)
+- [***DNP3Pot-python3***](https://github.com/referefref/dnp3pot-python3) - A fork of Art Watchowski's DNP3Pot ported to Python3, with Python3 ports of DNBP3 library (by Nicholas Rodofile) and DNP3Crafter (by David Olano)
 
 ## Other Projects
 - [***gitdoorcheck***](https://github.com/referefref/gitdoorcheck) - A git repo static code analyser using OpenAI LLMs written in Python
