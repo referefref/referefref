@@ -33,6 +33,7 @@
 - [***glastopf-ng***](https://github.com/referefref/glastopf-ng/) - A fork of Glastopf web application honeypot - migrated to python3
 - [***DNP3Pot-python3***](https://github.com/referefref/dnp3pot-python3) - A fork of Art Watchowski's DNP3Pot ported to Python3, with Python3 ports of DNBP3 library (by Nicholas Rodofile) and DNP3Crafter (by David Olano)
 - [***Schneider Electric Triconex Honeypot***](https://github.com/referefref/tricotools-py3/blob/master/triconex_honeypot.py) - A fork of NozomiNetwork's Original Triconex Honeypot ported to Python3
+- [***mailoney-ng***](https://github.com/referefref/mailoney-ng) - A fork of phin3has's SMTP honeypot with working async libraries, detection mitigation, daemonisation, extended logging and additional CLI parameters
 
 ## Other Projects
 - [***gitdoorcheck***](https://github.com/referefref/gitdoorcheck) - A git repo static code analyser using OpenAI LLMs written in Python
