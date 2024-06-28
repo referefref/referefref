@@ -21,6 +21,8 @@
 - [***modpot***](https://github.com/referefref/modpot) - A modular web-application honeypot platform built with Golang and Gin
 - [***Honeydet***](https://github.com/referefref/honeydet) - A universal honeypot detector written in Go!
 - [***honeypage***](https://github.com/referefref/honeypage) - A golang tool for flattening HTML, CSS, JS into a single file for use with modpot
+- [***Sinon***](https://github.com/referefref/sinon) - A tool for automating with AI, burn in and variability tasks on Windows deception hosts including personalisation, application installation,
+web browsing, and much more
 - [***AICRIOC***](https://github.com/referefref/aiocrioc) - An LLM and OCR based Indicator of Compromise extraction and context tool built with Python and compatible with openAI compatible API endpoints
 - [***IOCOCRExtractor***](https://github.com/referefref/ioc-ocr-extractor) - A pure regex and OCR (tesseract) Indicator of Compromise extractor tool built in Python for comparison to LLM extractions (see above)
 - [***SMTPLLMPot***](https://github.com/referefref/SMTPLLMPot) - An SMTP honeypot that uses OpenAI compatible APIs
