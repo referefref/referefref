@@ -24,6 +24,7 @@
 - [***Sinon***](https://github.com/referefref/sinon) - A tool for automating with AI, burn in and variability tasks on Windows deception hosts including personalisation, application installation,
 web browsing, and much more
 - [***SSH-Honey-Gateway***](https://github.com/referefref/ssh-honey-gateway/) - A lightweight SSH appliance that forwards connections with matching credentials and ssh-keys to deception envirnments and others to a target server
+- [***OpenAIPot***](https://github.com/referefref/OpenAIPot) - A lightweight OpenAI compatible API gateway that proxies requests utilising defined API key lures with prompt injection to facilitate adversarial engagement while allowing valid connections to pass.
 - [***AICRIOC***](https://github.com/referefref/aiocrioc) - An LLM and OCR based Indicator of Compromise extraction and context tool built with Python and compatible with openAI compatible API endpoints
 - [***IOCOCRExtractor***](https://github.com/referefref/ioc-ocr-extractor) - A pure regex and OCR (tesseract) Indicator of Compromise extractor tool built in Python for comparison to LLM extractions (see above)
 - [***SMTPLLMPot***](https://github.com/referefref/SMTPLLMPot) - An SMTP honeypot that uses OpenAI compatible APIs
